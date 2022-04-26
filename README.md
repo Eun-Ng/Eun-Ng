@@ -6,7 +6,7 @@
 
 <div align="left">
 
-<h2>Tech Stacks</h2>
+<h2>Tech Stacks 🔥</h2>
  
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=Html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=Css3&logoColor=fff)
@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 
-<h2>Tools</h2>
+<h2>Tools 🛠</h2>
  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=fff)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=fff)
