@@ -36,9 +36,9 @@
 <br />
 <br />
  
-![Eun-Ng's github stats](https://github-readme-stats.vercel.app/api?username=Eun-Ng&show_icons=true&theme=monokai)
+![Eun-Ng's github stats](https://github-readme-stats.vercel.app/api?username=Eun-Ng&show_icons=true&theme=react)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eun-Ng&layout=compact&theme=monokai)](https://github.com/Eun-Ng/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eun-Ng&layout=compact&theme=react)](https://github.com/Eun-Ng/github-readme-stats)
 
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-CC205E)
 
