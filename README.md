@@ -40,10 +40,8 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eun-Ng&layout=compact&theme=react)](https://github.com/Eun-Ng/github-readme-stats)
 
- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-CC205E)
-
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61%20Thousand%20lines%20of%20code-CC205E)
 
 **I'm a Night 🦉** 
 
