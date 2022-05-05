@@ -14,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=333)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff)
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff) -->
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=fff)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=333)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=fff)
