@@ -32,11 +32,16 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=fff)
  
 <h2>Algorithm ⏰</h2>
-![LeetCode Stats](https://leetcode.card.workers.dev/Eun-Ng?theme=wtf&font=source_code_pro&extension=null)
+ 
 </div>
  
-<br />
-<br />
+![LeetCode Stats](https://leetcard.jacoblin.cool/Eun-Ng?theme=wtf&font=JetBrains%20Mono)
+
+
+<div align="left">
+ <h2>GitHub Stats 💻</h2>
+</div>
+ 
  
 ![Eun-Ng's github stats](https://github-readme-stats.vercel.app/api?username=Eun-Ng&show_icons=true&theme=react)
  
