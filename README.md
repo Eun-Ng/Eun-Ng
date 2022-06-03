@@ -32,10 +32,16 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=fff)
  
 <h2>Algorithm ⏰</h2>
- 
+
 </div>
+<a href="https://github.com/Eun-Ng/TIL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eun-Ng&repo=TIL" />
+</a>
+<br />
+<br />
  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Eun-Ng?theme=wtf&font=JetBrains%20Mono)
+
 
 
 <div align="left">
