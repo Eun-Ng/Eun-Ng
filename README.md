@@ -30,25 +30,12 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=fff&color=161616)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=fff&color=161616)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=fff)
- 
-<h2>Algorithm ⏰</h2>
-
 </div>
-<a href="https://github.com/Eun-Ng/TIL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eun-Ng&repo=TIL" />
-</a>
-<br />
-<br />
- 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Eun-Ng?theme=wtf&font=JetBrains%20Mono)
-
-
 
 <div align="left">
  <h2>GitHub Stats 💻</h2>
 </div>
- 
- 
+  
 ![Eun-Ng's github stats](https://github-readme-stats.vercel.app/api?username=Eun-Ng&show_icons=true&theme=react)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eun-Ng&layout=compact&theme=react)](https://github.com/Eun-Ng/github-readme-stats)
