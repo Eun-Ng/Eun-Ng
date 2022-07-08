@@ -21,15 +21,6 @@
 <!-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff) -->
 <!-- ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=fff) -->
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff) -->
-
-<h2>Tools 🛠</h2>
- 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=fff)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=fff)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-161616.svg?style=flat-square&logo=intellij-idea&logoColor=fff)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=fff&color=161616)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=fff&color=161616)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=fff)
 </div>
 
 <div align="left">
