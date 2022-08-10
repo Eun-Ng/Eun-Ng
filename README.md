@@ -10,14 +10,17 @@
  
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=Html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=Css3&logoColor=fff)
+![SCSS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=333)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff)
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=fff)
+![Next](https://img.shields.io/badge/-Next-000000?style=flat-square&logo=Next.js&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff) -->
+<!-- ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=fff) -->
 </div>
 
 <div align="left">
