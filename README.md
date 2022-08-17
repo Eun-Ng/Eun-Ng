@@ -8,7 +8,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Blog-03a57a?style=flat-square&labelColor=03a57a&logo=Tistory&link=https://eun-ng.tistory.com/)](https://eun-ng.tistory.com/)
 -->
 
-<a href="https://eun-ng.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-03a57a?style=flat-square&labelColor=03a57a&logo=Tistory"/></a>
+<a href="https://eun-ng.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Blog-03a57a?style=flat-square&labelColor=03a57a&logo=Tistory"/> </a>
 [![Gmail Badge](https://img.shields.io/badge/-eunng.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunng.dev@gmail.com)](mailto:eunng.dev@gmail.com)
 
 <div align="left">
