@@ -12,11 +12,11 @@
 
 <h2>Tech Stacks 🔥</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,emotion,js,ts,react,redux,next,git,github,webpack,mysql,mongodb,vercel,aws&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,emotion,js,ts,react,redux,next,git,github,webpack,mysql,mongodb,vercel,aws&theme=light)
 
 <h2>Interesting 🤔</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,svelte,vite,jest,graphql,flutter&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vue,svelte,vite,jest,graphql,flutter&theme=light)
 
 </div>
 
