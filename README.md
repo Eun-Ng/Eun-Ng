@@ -12,7 +12,7 @@
 
 <h2>Tech Stacks 🔥</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,emotion,js,ts,react,redux,next,git,github,webpack,mysql,mongodb,vercel,aws&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,emotion,js,ts,react,redux,next,git,github,webpack,mysql,mongodb,vercel,aws&theme=light&perline=10)
 
 <h2>Interesting 🤔</h2>
 
