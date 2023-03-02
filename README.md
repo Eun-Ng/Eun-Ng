@@ -1,6 +1,7 @@
 <div align="center">
 
 ### Hello! I'm Front-End Developer **Eun-Ng**. 👋
+### I'm mainly using React.js, Next.js, TypeScript
 
 <br />
 
@@ -20,13 +21,5 @@
 ![My Skills](https://skillicons.dev/icons?i=vue,svelte,vite,jest,graphql,flutter&theme=light)
 
 </div>
-
-<div align="left">
- <h2>GitHub Stats 💻</h2>
-</div>
-  
-![Eun-Ng's github stats](https://github-readme-stats.vercel.app/api?username=Eun-Ng&show_icons=true&theme=react)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eun-Ng&layout=compact&theme=react)](https://github.com/Eun-Ng/github-readme-stats)
  
 </div>
