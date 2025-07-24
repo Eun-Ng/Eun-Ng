@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hello! I'm Front-End Developer **Eun-Ng**. 👋
-### I'm mainly using React.js, Next.js, TypeScript
+### I mainly work with React, Next.js, TypeScript
 
 <br />
 
